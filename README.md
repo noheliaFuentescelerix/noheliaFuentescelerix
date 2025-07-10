@@ -5,7 +5,7 @@
 
 :pencil: Winner of Hackathon Talento Tech 2025  
 :student: Intern at Celerix Company (currently learning and growing)  
-:soccer: :swimming: I love playing soccer and swimming.
+:soccer:I love playing soccer and swimming.
 
 ---
 
