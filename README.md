@@ -29,9 +29,9 @@
 ###  :zap: Actividad Reciente 
 
  <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [CelerixPasantiaAprendizaje/.github](https://github.com/CelerixPasantiaAprendizaje/.github)<br>
-2. ⭐ Starred [github/gitignore](https://github.com/github/gitignore)<br>
-3. ⬆️ Pushed 2 commit(s) to [noheliaFuentescelerix/repositorioPrueba](https://github.com/noheliaFuentescelerix/repositorioPrueba)<br>
-4. 🎉 Merged PR [#5](https://github.com/noheliaFuentescelerix/repositorioPrueba/pull/5) in [noheliaFuentescelerix/repositorioPrueba](https://github.com/noheliaFuentescelerix/repositorioPrueba)<br>
-5. ⬆️ Pushed 2 commit(s) to [noheliaFuentescelerix/repositorioPrueba](https://github.com/noheliaFuentescelerix/repositorioPrueba)<br>
+1. ✔️ Closed issue [#1](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI/issues/1) in [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
+2. ❗️ Opened issue [#1](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI/issues/1) in [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
+3. 📔 Created new repository [noheliaFuentescelerix/segundorepoCLI](https://github.com/noheliaFuentescelerix/segundorepoCLI)<br>
+4. 📔 Created new repository [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
+5. ⬆️ Pushed 1 commit(s) to [noheliaFuentescelerix/noheliaFuentescelerix](https://github.com/noheliaFuentescelerix/noheliaFuentescelerix)<br>
 <!--RECENT_ACTIVITY:end-->
