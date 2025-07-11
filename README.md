@@ -4,7 +4,7 @@
 :computer: Software Testing Technician  
 
 :pencil: Winner of Hackathon Talento Tech 2025  
-:student: Intern at Celerix Company (currently learning and growing)  
+       0  :student: Intern at Celerix Company (currently learning and growing)  
 :soccer:I love playing soccer and swimming.
 
 ---
@@ -26,3 +26,4 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/noheliaFuentescelerix/noheliaFuentescelerix)
 
+###  :zap: Actividad Reciente 
