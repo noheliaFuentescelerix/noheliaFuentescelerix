@@ -1,0 +1,22 @@
+name: Update README2
+
+
+#agendar el tiempo formato tipo cron
+on:
+  schedule:
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update Profile README
+
+    steps:
+      - uses: actions/checkout@v4.2.2
+
+      #sirve para mostar mi actividad mas reciente 
+      
+      - uses: Readme-Workflows/recent-activity@v2.4.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
