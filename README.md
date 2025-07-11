@@ -4,7 +4,7 @@
 :computer: Software Testing Technician  
 
 :pencil: Winner of Hackathon Talento Tech 2025  
-       0  :student: Intern at Celerix Company (currently learning and growing)  
+         :student: Intern at Celerix Company (currently learning and growing)  
 :soccer:I love playing soccer and swimming.
 
 ---
