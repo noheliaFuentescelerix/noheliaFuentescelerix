@@ -29,9 +29,9 @@
 ###  :zap: Actividad Reciente 
 
  <!--RECENT_ACTIVITY:start-->
-1. ✔️ Closed issue [#1](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI/issues/1) in [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
-2. ❗️ Opened issue [#1](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI/issues/1) in [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
-3. 📔 Created new repository [noheliaFuentescelerix/segundorepoCLI](https://github.com/noheliaFuentescelerix/segundorepoCLI)<br>
-4. 📔 Created new repository [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
-5. ⬆️ Pushed 1 commit(s) to [noheliaFuentescelerix/noheliaFuentescelerix](https://github.com/noheliaFuentescelerix/noheliaFuentescelerix)<br>
+1. ⬆️ Pushed 1 commit(s) to [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
+2. ✔️ Closed issue [#1](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI/issues/1) in [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
+3. ❗️ Opened issue [#1](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI/issues/1) in [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
+4. 📔 Created new repository [noheliaFuentescelerix/segundorepoCLI](https://github.com/noheliaFuentescelerix/segundorepoCLI)<br>
+5. 📔 Created new repository [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
 <!--RECENT_ACTIVITY:end-->
