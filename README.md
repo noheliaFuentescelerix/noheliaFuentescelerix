@@ -29,9 +29,9 @@
 ###  :zap: Actividad Reciente 
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
-2. ✔️ Closed issue [#1](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI/issues/1) in [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
-3. ❗️ Opened issue [#1](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI/issues/1) in [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
-4. 📔 Created new repository [noheliaFuentescelerix/segundorepoCLI](https://github.com/noheliaFuentescelerix/segundorepoCLI)<br>
-5. 📔 Created new repository [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
+1. ⬆️ Pushed 3 commit(s) to [noheliaFuentescelerix/repositorioPrueba](https://github.com/noheliaFuentescelerix/repositorioPrueba)<br>
+2. 🎉 Merged PR [#8](https://github.com/noheliaFuentescelerix/repositorioPrueba/pull/8) in [noheliaFuentescelerix/repositorioPrueba](https://github.com/noheliaFuentescelerix/repositorioPrueba)<br>
+3. 💪 Opened PR [#8](https://github.com/noheliaFuentescelerix/repositorioPrueba/pull/8) in [noheliaFuentescelerix/repositorioPrueba](https://github.com/noheliaFuentescelerix/repositorioPrueba)<br>
+4. ⬆️ Pushed 1 commit(s) to [noheliaFuentescelerix/repositorioPrueba](https://github.com/noheliaFuentescelerix/repositorioPrueba)<br>
+5. ⬆️ Pushed 1 commit(s) to [noheliaFuentescelerix/repositorioPrueba](https://github.com/noheliaFuentescelerix/repositorioPrueba)<br>
 <!--RECENT_ACTIVITY:end-->
