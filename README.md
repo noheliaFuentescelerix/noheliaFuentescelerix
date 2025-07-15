@@ -29,9 +29,9 @@
 ###  :zap: Actividad Reciente 
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
-2. ⬆️ Pushed 2 commit(s) to [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
-3. 🎉 Merged PR [#3](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI/pull/3) in [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
+1. ✌️ Released [V0.1.0](https://github.com/noheliaFuentescelerix/Quintorepo/releases/tag/V0.1.0) in [noheliaFuentescelerix/Quintorepo](https://github.com/noheliaFuentescelerix/Quintorepo)<br>
+2. ⬆️ Pushed 1 commit(s) to [noheliaFuentescelerix/Quintorepo](https://github.com/noheliaFuentescelerix/Quintorepo)<br>
+3. 📔 Created new repository [noheliaFuentescelerix/Quintorepo](https://github.com/noheliaFuentescelerix/Quintorepo)<br>
 4. ⬆️ Pushed 1 commit(s) to [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
-5. 💪 Opened PR [#3](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI/pull/3) in [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
+5. ⬆️ Pushed 2 commit(s) to [noheliaFuentescelerix/-miRepousandoGitHubCLI](https://github.com/noheliaFuentescelerix/-miRepousandoGitHubCLI)<br>
 <!--RECENT_ACTIVITY:end-->
