@@ -29,5 +29,4 @@
 ###  :zap: Actividad Reciente 
 
  <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [noheliaFuentescelerix/repositorioPrueba](https://github.com/noheliaFuentescelerix/repositorioPrueba)<br>
 <!--RECENT_ACTIVITY:end-->
